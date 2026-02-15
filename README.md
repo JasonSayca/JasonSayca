@@ -1,6 +1,6 @@
 ![Stage](https://img.shields.io/badge/RNCP-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
 
-![Mission](https://img.shields.io/badge/Activités-Freelance_disponible-green?style=for-the-badge)
+![Mission](https://img.shields.io/badge/Activité-Freelance_disponible-green?style=for-the-badge)
 
 ![Structure](https://img.shields.io/badge/R&D_Lab-Sayca_Labs-orange?style=for-the-badge)
 
