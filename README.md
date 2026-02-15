@@ -4,7 +4,8 @@
 
 ![Structure](https://img.shields.io/badge/R&D_Lab-Sayca_Labs-orange?style=for-the-badge)
 
-**Fondateur de Sayca Labs** - Génie Logiciel & Systèmes Souverains
+# Génie Logiciel & Systèmes Souverains
+**Fondateur de Sayca Labs R&D**
 
 Développeur en infrastructure IA Modulaire & Souveraine, Logiciels et Systèmes B2B
 
