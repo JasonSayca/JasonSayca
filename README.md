@@ -8,9 +8,7 @@
 
 Développeur en infrastructure IA Modulaire & Souveraine, Logiciels et Systèmes B2B
 
-**Fondateur de Sayca Labs R&D** - Structure juridique d'expérimentation en logiciels informatiques
-
-[Preuve par le code -> Public repositories](https://github.com/devSayca?tab=repositories)
+**Fondateur du Sayca Labs** - Label solo et freelance de logiciels et d'infra
 
 ---
 
