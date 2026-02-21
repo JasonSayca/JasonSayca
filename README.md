@@ -6,7 +6,7 @@
 
 ![Timeline Ingénierie Informatique](assets/timeline.png)
 
-## Infrastructure IA Modulaire & Souveraine, Logiciels et Systèmes B2B
+## Dev en Infra IA Modulaire & Souveraine, Logiciels et Systèmes B2B
 
 **Fondateur du Sayca Labs** - Label solo et freelance de logiciels et d'infra
 
