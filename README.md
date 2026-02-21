@@ -2,7 +2,7 @@
 
 ![Mission](https://img.shields.io/badge/Activité-Freelance_disponible-green?style=for-the-badge)
 
-![Structure](https://img.shields.io/badge/R&D_Lab-Sayca_Labs-orange?style=for-the-badge)
+![Structure](https://img.shields.io/badge/Label-Sayca_Labs-orange?style=for-the-badge)
 
 ![Timeline Ingénierie Informatique](assets/timeline.png)
 
