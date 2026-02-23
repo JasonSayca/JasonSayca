@@ -40,12 +40,15 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 
 ---
 
-📂 Projets actuels
+<details>
+  <summary>📂 Projets actuels</summary>
   
-* **[MOBILE C.B.U]** : *Déploiement de terminaux de diagnostic terrain, interfaçage bas-niveau avec automates industriels et monitoring de flux de données sécurisés via Shizuku/Termux.*
-* **[Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
-* **[Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
 * **[Projet C/42]** : *Projets académiques (42) sous licence privée conformément à la charte de l'école. Focus : Réimplémentation de bibliothèques standards (Libft), systèmes de fichiers et gestion mémoire. -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
+* **[Smartphone Bridge Unit]** : *Déploiement de terminaux de diagnostic terrain, interfaçage bas-niveau avec automates industriels et monitoring de flux de données sécurisés via Shizuku/Termux.*
+* **[Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
+* **[Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
+
+</details>
 
 ---
 
