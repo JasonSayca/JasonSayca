@@ -28,7 +28,7 @@
 ---
 
 <details>
-  <summary>🚀 Rôle et résultats de mon travail</summary>
+  <summary>🚀 Rôle & résultats de mon travail</summary>
   
 Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisible qui transforme les processus manuels coûteux en **marge nette**. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python/IA)** pour garantir des solutions robustes, auditables et souveraines.
 
@@ -42,12 +42,12 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 
 </details>
 <details>
-  <summary>📂 Projets actuels</summary>
+  <summary>📂 Projets en cours</summary>
   
-* **[Projet C/42]** : *Projets académiques (42) sous licence privée conformément à la charte de l'école. Focus : Réimplémentation de bibliothèques standards (Libft), systèmes de fichiers et gestion mémoire. -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
-* **[Smartphone Bridge Unit]** : *Déploiement de terminaux de diagnostic terrain, interfaçage bas-niveau avec automates industriels et monitoring de flux de données sécurisés via Shizuku/Termux.*
-* **[Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
-* **[Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
+* **[42 Nice - C/Python]** : *Projets académiques (42) sous licence privée conformément à la charte de l'école. Focus : Réimplémentation de bibliothèques standards (Libft), systèmes de fichiers et gestion mémoire. -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
+* **[LABS - Smartphone Bridge Unit]** : *Déploiement de terminaux de diagnostic terrain, interfaçage bas-niveau avec automates industriels et monitoring de flux de données sécurisés via Shizuku/Termux.*
+* **[LABS - Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
+* **[LABS - Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
 
 </details>
 
