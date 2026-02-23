@@ -1,10 +1,6 @@
-![Stage](https://img.shields.io/badge/STAGE-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github)
+![Stage](https://img.shields.io/badge/STAGE-Recherche_de_stage_pour_2027-blue?style=for-the-badge&logo=github) ![Mission](https://img.shields.io/badge/Activité-Freelance_disponible-green?style=for-the-badge)  ![Structure](https://img.shields.io/badge/Label-Sayca_Labs-orange?style=for-the-badge)
 
-![Mission](https://img.shields.io/badge/Activité-Freelance_disponible-green?style=for-the-badge)  ![Structure](https://img.shields.io/badge/Label-Sayca_Labs-orange?style=for-the-badge)
-
-![Timeline Ingénierie Informatique](assets/timeline.png)
-
-## Dev en Infra IA Modulaire & Souveraine, Logiciels et Systèmes B2B
+## Infrastructures IA Modulaires & Souveraines, Logiciels et Systèmes B2B
 
 **Fondateur du Sayca Labs** - Label solo et freelance de logiciels et d'infra
 
@@ -23,8 +19,7 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 
 ---
 
-<details>
-  <summary>🛠️ Compétences en dev (Tech Stack)</summary>
+🛠️ Compétences en dev (Tech Stack)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -39,19 +34,14 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 | **Infrastructure** | `Docker`, `Linux`, `Git` | Des environnements isolés, sécurisés et souverains. |
 | **Génie Logiciel** | `Modularité`, `Clean Code` | Protocoles d'users-to-LLM pour la facilité de haut-niveau pour utilisateurs non-techniques. |
 
-</details>
-
 ---
 
-<details>
-  <summary>📂 Projets actuels</summary>
+📂 Projets actuels
   
 * **[MOBILE C.B.U]** : *Déploiement de terminaux de diagnostic terrain, interfaçage bas-niveau avec automates industriels et monitoring de flux de données sécurisés via Shizuku/Termux.*
 * **[Sailor Energy]** : *Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
 * **[Triadic Intelligence]** : *Protocole formant les utilisateurs à un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
 * **[Projet C/42]** : *Projets académiques (42) sous licence privée conformément à la charte de l'école. Focus : Réimplémentation de bibliothèques standards (Libft), systèmes de fichiers et gestion mémoire. -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
-
-</details>
 
 ---
 
@@ -96,3 +86,5 @@ Je suis actuellement à l'écoute d'opportunités stratégiques pour propulser m
 1.  **L'Humain pilote :** La machine exécute, l'humain supervise.
 2.  **Souveraineté réelle :** L'utilisateur doit posséder et comprendre ses outils.
 3.  **Durabilité :** Développer des architectures faites pour durer et subir des transformations (traductions, transpositions) liées aux cycles de péremption logiciels.
+
+![Timeline Ingénierie Informatique](assets/timeline.png)
