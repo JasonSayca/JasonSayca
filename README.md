@@ -10,19 +10,6 @@
 
 ---
 
-<details>
-  <summary>🚀 Rôle et résultat de mon travail</summary>
-  
-Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisible qui transforme les processus manuels coûteux en **marge nette**. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python/IA)** pour garantir des solutions robustes, auditables et souveraines.
-
-* **Souveraineté :** Vos données restent sous votre contrôle, hors des clouds publics.
-* **Performance :** Optimisation bas-niveau pour traiter des volumes massifs avec efficacité.
-* **ROI :** Automatisation critique des flux administratifs et logistiques.
-
-</details>
-
----
-
 🛠️ Compétences en dev (Tech Stack)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -38,8 +25,21 @@ Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisibl
 | **Infrastructure** | `Docker`, `Linux`, `Git` | Des environnements isolés, sécurisés et souverains. |
 | **Génie Logiciel** | `Modularité`, `Clean Code` | Protocoles d'users-to-LLM pour la facilité de haut-niveau pour utilisateurs non-techniques. |
 
+
 ---
 
+<details>
+  <summary>🚀 Rôle et résultats de mon travail</summary>
+  
+Je ne vends pas de "gadgets". Ma mission est de bâtir l'infrastructure invisible qui transforme les processus manuels coûteux en **marge nette**. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python/IA)** pour garantir des solutions robustes, auditables et souveraines.
+
+* **Souveraineté :** Vos données restent sous votre contrôle, hors des clouds publics.
+* **Performance :** Optimisation bas-niveau pour traiter des volumes massifs avec efficacité.
+* **ROI :** Automatisation critique des flux administratifs et logistiques.
+
+---
+
+</details>
 <details>
   <summary>📂 Projets actuels</summary>
   
