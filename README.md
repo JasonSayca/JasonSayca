@@ -68,7 +68,7 @@ Je ne vends pas de "gadgets IA". Ma mission est de bâtir l'infrastructure visib
 
 
 ### 📈 Objectifs long terme
-* **⚡ Immersion Technique (Stage 42) :** Recherche d'un environnement à haute exigence (Systèmes distribués, Kernel, R&D Agentique) pour **Début 2027**. Focus : Architectures résilientes et optimisation de bas-niveau.
+* **⚡ Immersion Technique (Stage 42) :** Recherche d'une équipe/entreprise à haute exigence (Systèmes distribués, Kernel, R&D Agentique) pour **Début 2027**. Focus : Architectures résilientes et optimisation de bas-niveau.
 * **🤝 Expertise B2B :** Support technique et conseil pour structures souhaitant migrer vers des **flux autonomes souverains**. Intervention sur l'automatisation de processus critiques sans dépendance cloud.
 * **🚀 Sayca Labs :** Incubation de protocoles d'interfaçage IA/Bas-Niveau et déploiement de solutions modulaires propriétaires.
 
@@ -93,21 +93,20 @@ Je ne vends pas de "gadgets IA". Ma mission est de bâtir l'infrastructure visib
 
 ---
 
-<p align="center">
-  
 ### 📬 Connexion & Réseau
 
-<p/>
 
 * 💼 **[Me contacter sur LinkedIn](https://linkedin.com/in/sayca)** — *Stratégie B2B & Partenariats*
 * 🧠 **Instagram :** [@sayca.labs](https://instagram.com/sayca.labs) — *Coulisses techniques & Entreprise informatique*
 * **42 Nice :** <https://42nice.fr>
 
+
 ---
 
+
+#### Rappel :
+### L'Intelligence Artificielle n'est pas un effet de mode
+
 <p align="center">
-
-### Voici pourquoi l'Intelligence Artificielle n'est pas un effet de mode
+  <img src="assets/timeline.png" width="75%" alt="Timeline">
 <p/>
-
-![Timeline Ingénierie Informatique](assets/timeline.png)
