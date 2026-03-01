@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/SaycaLabs_banner.png" width="75%" alt="Sayca Labs Banner">
+  <img src="assets/SaycaLabs_newbanner.png" width="75%" alt="Sayca Labs Banner">
 </p>
 
 ![Signature](https://img.shields.io/badge/Signature-Sayca_Labs-red?style=for-the-badge) ![Activity](https://img.shields.io/badge/Activity-FREELANCE_|_OPEN_WORK_STUDY_PROGRAM-blue?style=for-the-badge) ![Time](https://img.shields.io/badge/Timeline-GRADUATION_2027-black?style=for-the-badge)
