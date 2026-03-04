@@ -6,6 +6,8 @@
 
 ### Critical Middleware // Sovereign AI Infrastructure // High-Availability Architectures
 
+💼 **[LINKEDIN](https://linkedin.com/in/sayca)** // 🧠 **[PRO INSTAGRAM](https://instagram.com/sayca.labs)**
+
 ---
 
 ### 🛠️ Mes compétences (Dev Stack)
@@ -96,8 +98,6 @@ Je ne vends pas de "gadgets IA". Ma mission est de bâtir l'infrastructure visib
 ### 📬 Connexion & Réseau
 
 
-* 💼 **[Me contacter sur LinkedIn](https://linkedin.com/in/sayca)** — *Stratégie B2B & Partenariats*
-* 🧠 **Instagram :** [@sayca.labs](https://instagram.com/sayca.labs) — *Coulisses techniques & Entreprise informatique*
 * **42 Nice :** <https://42nice.fr>
 
 
