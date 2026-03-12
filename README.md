@@ -27,7 +27,7 @@
 
 ---
 
-### 💎 Compétences architecturales
+### 💎 Avancement de Tech Lead
 
 (2021-2025) ✅ - Architecture de la connaissance et de l'information (travaux personnels)
 
@@ -36,6 +36,8 @@
 (2027-2030) 🔒 - Architecture Système et logicielle (entreprises Tech + spécialisations RNCP 6 & 7)
 
 (post 2031) 🔒 - Transfert académique vers Master puis Doctorat en Intelligences Augmentées
+
+---
 
 <details>
   <summary>🚀 Rôle & résultats de mon travail</summary>
