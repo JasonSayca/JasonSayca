@@ -4,11 +4,6 @@
 
 ![Activity](https://img.shields.io/badge/Activity-OPEN_WORK_STUDY_&_FREELANCE-blue?style=for-the-badge) ![Time](https://img.shields.io/badge/Timeline-GRADUATION_2027-black?style=for-the-badge)
 
-(2021-2025) ✅ - Architecture de la connaissance et de l'information
-(2025-2027) ⏳ - Tronc Commun 42next (vérité logicielle et algorithmie)
-(2027-2030) 🔒 - Architecture Système et logicielle (entreprises Tech)
-(post 2031) 🔒 - Transfert académique vers un Master pour Doctorat en Intelligences Augmentées
-
 💼 **[LinkedIn](https://linkedin.com/in/sayca)**
 🧠 **[Pro Instagram](https://instagram.com/sayca.labs)**
 🎓 **[42 Nice](https://42nice.fr/)**
@@ -31,6 +26,16 @@
 | **Génie Logiciel** | `Modularité`, `Clean Code` | Protocoles d'users-to-LLM pour la facilité de haut-niveau pour utilisateurs non-techniques. |
 
 ---
+
+### 💎 Compétences architecturales
+
+(2021-2025) ✅ - Architecture de la connaissance et de l'information (travaux personnels)
+
+(2025-2027) ⏳ - Tronc Commun 42next (vérité logicielle et algorithmie)
+
+(2027-2030) 🔒 - Architecture Système et logicielle (entreprises Tech + spécialisations RNCP 6 & 7)
+
+(post 2031) 🔒 - Transfert académique vers Master puis Doctorat en Intelligences Augmentées
 
 <details>
   <summary>🚀 Rôle & résultats de mon travail</summary>
