@@ -5,12 +5,11 @@
 ![Activity](https://img.shields.io/badge/Activity-OPEN_WORK_STUDY_&_FREELANCE-blue?style=for-the-badge) ![Time](https://img.shields.io/badge/Timeline-GRADUATION_2027-black?style=for-the-badge)
 
 💼 **[LinkedIn](https://linkedin.com/in/sayca)**
-🧠 **[Pro Instagram](https://instagram.com/sayca.labs)**
 🎓 **[42 Nice](https://42nice.fr/)**
 
 ---
 
-### 🛠️ Compétences brutes (Dev Stack)
+### 🛠️ Compétences brutes
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -27,27 +26,56 @@
 
 ---
 
-### 💎 Avancement de Tech Lead
+<details>
+  <summary> 💎 Avancement Tech Lead & R&D</summary>
 
-(2021-2025) ✅ - Architecture de la connaissance et de l'information (travaux personnels)
+​#### (2021-2025) ✅ - Fondations en Architecture de l'Information
 
-(2025-2027) ⏳ - Tronc Commun 42next (vérité logicielle et algorithmie)
+* ​Recherche personnelle sur les ontologies logiques et la structuration des données complexes.
 
-(2027-2030) 🔒 - Architecture Système et logicielle (entreprises Tech + spécialisations RNCP 6 & 7)
+​* Analyse systémique des infrastructures de données héritées (Legacy) et des flux d'informations distribués.
 
-(post 2031) 🔒 - Transfert académique vers Master puis Doctorat en Intelligences Augmentées
+* ​Conceptualisation du protocole Sayca Labs : Souveraineté et Performance.
+
+
+​#### (2025-2027) ⏳ - Ingénierie Système & Vérité Logicielle (42next)
+
+* ​Immersion Bas-Niveau (C23) : Maîtrise de la gestion mémoire, des processus et de l'interfaçage système pur.
+
+* ​Algorithmie avancée : Optimisation de structures de données pour des charges de travail critiques.
+​Développement de bibliothèques propriétaires (libft_ultra) visant l'équilibre entre abstraction et performance métal.
+
+
+​#### (2027-2030) 🔒 - Expérience Industrielle & Hyperscale (RNCP 6/7)
+
+* ​Déploiement d'architectures résilientes en environnement B2B à haute exigence.
+
+* ​Spécialisation dans les systèmes distribués et le clustering souverain (Zéro-Cloud).
+
+* ​Certification d'Expert en Architecture Systémique et Sécurité des Flux.
+
+
+​#### (Post 2031) 🔒 - Recherche Doctorale : Systèmes de Synthèse Augmentés
+
+* ​Transfert vers un Master de Recherche pour engager des travaux de Doctorat, parallèle aux activités industrielles.
+
+* ​Sujet visé : Hybridation entre raisonnement symbolique (N+1/N+2) et modèles de langage agentiques (Synthétiques).
+
+* ​Objectif : Habilitation à Diriger les Recherches (HDR) pour définir les nouveaux standards de l'Intelligence Augmentée.
+
+</details>
 
 ---
 
 <details>
-  <summary>🚀 Rôle & résultats de mon travail</summary>
+  <summary>🚀 Mon rôle et ma valeur ajoutée</summary>
   
-Je ne vends pas de "gadgets IA". Ma mission est de bâtir l'infrastructure visible ET invisible qui transforme les processus manuels (humains) coûteux en **marge nette**. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python/IA)** pour garantir des solutions robustes, auditables et souveraines.
+Ma mission est de bâtir des infrastructures hyperscales. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python & IAs de ruches)** pour garantir des solutions robustes, auditables et souveraines.
 
-### S.P.ROI
-* **Souveraineté :** Vos données restent sous votre contrôle, hors des clouds publics.
+### S / P / ROI
+* **Souveraineté :** Les données restent sous notre contrôle local et cyber, hors des clouds publics.
 * **Performance :** Optimisation bas-niveau pour traiter des volumes massifs avec efficacité.
-* **ROI :** Automatisation critique des flux administratifs et logistiques.
+* **ROI :** Automatisation des flux critiques en administratif et en logistique.
 
 </details>
 
