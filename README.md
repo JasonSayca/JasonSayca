@@ -27,9 +27,9 @@
 ---
 
 <details>
-  <summary> 💎 Avancement Tech Lead & R&D</summary>
+  <summary>💎 Avancement Tech Lead & R&D</summary>
 
-​#### (2021-2025) ✅ - Fondations en Architecture de l'Information
+​### (2021-2025) ✅ - Fondations en Architecture de l'Information
 
 * ​Recherche personnelle sur les ontologies logiques et la structuration des données complexes.
 
@@ -38,7 +38,7 @@
 * ​Conceptualisation du protocole Sayca Labs : Souveraineté et Performance.
 
 
-​#### (2025-2027) ⏳ - Ingénierie Système & Vérité Logicielle (42next)
+​### (2025-2027) ⏳ - Ingénierie Système & Vérité Logicielle (42next)
 
 * ​Immersion Bas-Niveau (C23) : Maîtrise de la gestion mémoire, des processus et de l'interfaçage système pur.
 
@@ -47,7 +47,7 @@
 * ​Développement de bibliothèques propriétaires (comme la fusion de 42 et SaycaLabs par libft_axiom) visant l'équilibre entre abstraction et performance métal.
 
 
-​#### (2027-2030) 🔒 - Expérience Industrielle & Hyperscale (RNCP 6/7)
+​### (2027-2030) 🔒 - Expérience Industrielle & Hyperscale (RNCP 6/7)
 
 * ​Déploiement d'architectures résilientes en environnement B2B à haute exigence.
 
@@ -56,7 +56,7 @@
 * ​Certification d'Expert en Architecture Systémique et Sécurité des Flux.
 
 
-​#### (Post 2031) 🔒 - Recherche Doctorale : Systèmes de Synthèse Augmentés
+​### (Post 2031) 🔒 - Recherche Doctorale : Systèmes de Synthèse Augmentés
 
 * ​Transfert vers un Master de Recherche pour engager des travaux de Doctorat, parallèle aux activités industrielles.
 
@@ -69,7 +69,7 @@
 ---
 
 <details>
-  <summary>🚀 Mon rôle // Ma valeur ajoutée</summary>
+  <summary>🚀 Mon rôle // Valeur ajoutée</summary>
   
 Ma mission est de bâtir des infrastructures hyperscales. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python & IAs de ruches)** pour garantir des solutions robustes, auditables et souveraines.
 
