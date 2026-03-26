@@ -30,7 +30,7 @@
 <details>
   <summary>💎 Avancement Tech Lead & R&D</summary>
 
-​(2021-2025) ✅ - Fondations en Architecture de l'Information
+​#### (2021-2025) ✅ - Fondations en Architecture de l'Information
 
 * ​Recherche personnelle sur les ontologies logiques et la structuration des données complexes.
 
@@ -39,7 +39,7 @@
 * ​Conceptualisation du protocole Sayca Labs : Souveraineté et Performance.
 
 
-​(2025-2027) ⏳ - Ingénierie Système & Vérité Logicielle (42next)
+​#### (2025-2027) ⏳ - Ingénierie Système & Vérité Logicielle (42next)
 
 * ​Immersion Bas-Niveau (C23) : Maîtrise de la gestion mémoire, des processus et de l'interfaçage système pur.
 
@@ -48,7 +48,7 @@
 * ​Développement de bibliothèques propriétaires (comme la fusion de 42 et SaycaLabs par libft_axiom) visant l'équilibre entre abstraction et performance métal.
 
 
-​(2027-2030) 🔒 - Expérience Industrielle & Hyperscale (RNCP 6/7)
+​#### (2027-2030) 🔒 - Expérience Industrielle & Hyperscale (RNCP 6/7)
 
 * ​Déploiement d'architectures résilientes en environnement B2B à haute exigence.
 
@@ -57,7 +57,7 @@
 * ​Certification d'Expert en Architecture Systémique et Sécurité des Flux.
 
 
-​(Post 2031) 🔒 - Recherche Doctorale : Systèmes de Synthèse Augmentés
+#### ​(Post 2031) 🔒 - Recherche Doctorale : Systèmes de Synthèse Augmentés
 
 * ​Transfert vers un Master de Recherche pour engager des travaux de Doctorat, parallèle aux activités industrielles.
 
@@ -89,9 +89,11 @@ Ma mission est de bâtir des infrastructures hyperscales. Mon approche fusionne 
   
 * **[42 Nice - C/Python]** : *Projets académiques (42) sous licence privée conformément à la charte de l'école. Focus : Réimplémentation de bibliothèques standards (Libft), systèmes de fichiers et gestion mémoire. -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
 
-* **[SAYCA LABS - OMISHELL]** : *Terminaux de diagnostic terrain, détection système universelle par interfaçage bas-niveau pour lectures et injections, gestion critique des systèmes classés interdits, et monitoring de flux de données sécurisés via Shizuku/Termux.*
+* **[SAYCA LABS - OMNISHELL]** : *Unified Field Diagnostic Interface. Plateforme de diagnostic terrain dédiée à l'identification et à l'analyse de protocoles systèmes par interfaçage bas-niveau. Permet la rétro-ingénierie de flux de données, l'audit de sécurité sur infrastructures critiques et le monitoring de flux chiffrés via l'exploitation des privilèges ADB (Shizuku) sous environnement Termux.*
 
 * **[SAYCA LABS - Triadic Intelligence]** : *Protocole primitif pour les premières années de collaboration Homme-IA, pour un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
+
+# 📂 Projets complétés
 
 * **[SAYCA LABS - Sailor Energy]** : *Projet complété et terminé. Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
 
