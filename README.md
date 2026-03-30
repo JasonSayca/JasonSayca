@@ -1,138 +1,83 @@
-![Activity](https://img.shields.io/badge/Activity-OPEN_to_WORK_STUDY_PROGRAM_for_2027-blue?style=for-the-badge) ![Time](https://img.shields.io/badge/Timeline-GRADUATION_2027-black?style=for-the-badge)
+# Work In Progress Readme
 
-<p align="center">
-  <img src="assets/SaycaLabs_GitHubBanner.png" width="65%" alt="Sayca Labs Banner">
-</p>
+Étudiant ingénieur à l'**École 42 Nice** — entré en novembre 2025, diplôme visé 2027.
 
-💼 **[LinkedIn](https://linkedin.com/in/sayca)**
-🎓 **[42 Nice](https://42nice.fr/)**
-🧪 **[Sayca Labs](https://saycalabs.com/)**
+Je construis des systèmes bas-niveau en C, haut-niveau en Python, des outils d'infrastructure shell et des protocoles d'ingénierie documentés avant d'être implémentés.
+
+![Timeline](https://img.shields.io/badge/Disponibilité_Alternance-Deuxième_trimestre_2027-black?style=for-the-badge)
 
 ---
 
-### 🛠️ Compétences brutes
+## 🧪 Sayca Labs — Recherche & Ingénierie
+
+
+## **[Dépôt GitHub principal](https://github.com/SaycaLabs/)**
+
+Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**.
+
+Bibliothèques C, spécifications système, recherche appliquée, méthodologie FIPOGE.
+
+---
+
+## Compétences
+
+| Domaine | Technologies | Posture |
+|:---|:---|:---|
+| **Bas niveau** | `C23`, `Unix`, `Shell` | Maîtriser les primitives pour ne jamais subir l'abstraction |
+| **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` | Environnements isolés, reproductibles, auditables |
+| **Systèmes autonomes** | `Python`, `LLM`, `APIs` | Automatisation des flux critiques avec supervision humaine |
+| **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine |
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![LLM](https://img.shields.io/badge/AI-LLM_RAG-bot?style=flat-square&color=blueviolet)
-
-| Domaine | Technologies | Objectif |
-| :--- | :--- | :--- |
-| **Bas Niveau** | `C`, `Unix`, `Shell` | Maîtriser la vérité matérielle pour ne jamais subir l'abstraction. |
-| **Systèmes Autonomes** | `Python`, `LLM (RAG)`, `APIs` | L'automatisation au service de l'efficacité métier. |
-| **Infrastructure** | `Docker`, `Linux`, `Git` | Des environnements isolés, sécurisés et souverains. |
-| **Génie Logiciel** | `Modularité`, `Clean Code` | Protocoles d'users-to-LLM pour la facilité de haut-niveau pour utilisateurs non-techniques. |
+![Shell](https://img.shields.io/badge/Shell-Zsh%2FBash-informational?style=flat-square)
 
 ---
 
-<details>
-  <summary>💎 Avancement Tech Lead & R&D</summary>
+## Trajectoire
 
-​#### (2021-2025) ✅ - Fondations en Architecture de l'Information
-
-* ​Recherche personnelle sur les ontologies logiques et la structuration des données complexes.
-
-​* Analyse systémique des infrastructures de données héritées (Legacy) et des flux d'informations distribués.
-
-* ​Conceptualisation du protocole Sayca Labs : Souveraineté et Performance.
-
-
-​#### (2025-2027) ⏳ - Ingénierie Système & Vérité Logicielle (42next)
-
-* ​Immersion Bas-Niveau (C23) : Maîtrise de la gestion mémoire, des processus et de l'interfaçage système pur.
-
-* ​Algorithmie avancée : Optimisation de structures de données pour des charges de travail critiques.
-
-* ​Développement de bibliothèques propriétaires (comme la fusion de 42 et SaycaLabs par libft_axiom) visant l'équilibre entre abstraction et performance métal.
-
-
-​#### (2027-2030) 🔒 - Expérience Industrielle & Hyperscale (RNCP 6/7)
-
-* ​Déploiement d'architectures résilientes en environnement B2B à haute exigence.
-
-* ​Spécialisation dans les systèmes distribués et le clustering souverain (Zéro-Cloud).
-
-* ​Certification d'Expert en Architecture Systémique et Sécurité des Flux.
-
-
-#### ​(Post 2031) 🔒 - Recherche Doctorale : Systèmes de Synthèse Augmentés
-
-* ​Transfert vers un Master de Recherche pour engager des travaux de Doctorat, parallèle aux activités industrielles.
-
-* ​Sujet visé : Hybridation entre raisonnement symbolique (N+1/N+2) et modèles de langage agentiques (Synthétiques).
-
-* ​Objectif : Habilitation à Diriger les Recherches (HDR) pour définir les nouveaux standards de l'Intelligence Augmentée.
-
-</details>
+| Période | Phase | Focus |
+|:---|:---|:---|
+| 2021–2025 | Fondations | Ontologies logiques, structuration de données complexes, débuts en architecture de l'information (Marine Nationale)|
+| 2025–2027 | En cours | C23, gestion mémoire, bibliothèques système, ingénierie par contrat (42 Nice) |
+| 2027–2030 | Visé | Alternance RNCP 6/7, architectures B2B, systèmes distribués |
+| Post-2030 | Objectif | Recherche industrielle : hybridation raisonnement symbolique et modèles agentiques |
 
 ---
 
-<details>
-  <summary>🚀 Mon rôle // Valeur ajoutée</summary>
-  
-Ma mission est de bâtir des infrastructures hyperscales. Mon approche fusionne la rigueur du **bas-niveau (C)** avec la puissance des **systèmes autonomes (Python & IAs de ruches)** pour garantir des solutions robustes, auditables et souveraines.
+## Méthodologie
 
-### S / P / ROI
-* **Souveraineté :** Les données restent sous notre contrôle local et cyber, hors des clouds publics.
-* **Performance :** Optimisation bas-niveau pour traiter des volumes massifs avec efficacité.
-* **ROI :** Automatisation des flux critiques en administratif et en logistique.
+**Architecture avant implémentation.**
+Chaque projet passe par un contrat FIPOGE (Fichiers · Inputs · Process · Outputs · Guarantees · Errors) avant toute ligne de code. La documentation est un actif technique, pas une formalité.
 
-</details>
+[Lire le protocole complet](https://github.com/SaycaLabs/engineering)
 
 ---
 
-</details>
-<details>
-  <summary>📂 Projets en cours</summary>
-  
-* **[42 Nice - C/Python]** : *Projets académiques (42) sous licence privée conformément à la charte de l'école. Focus : Réimplémentation de bibliothèques standards (Libft), systèmes de fichiers et gestion mémoire. -> [Voir mes autres dépôts github](https://github.com/devSayca?tab=repositories)*
+## Veille technique
 
-* **[SAYCA LABS - OMNISHELL]** : *Unified Field Diagnostic Interface. Plateforme de diagnostic terrain dédiée à l'identification et à l'analyse de protocoles systèmes par interfaçage bas-niveau. Permet la rétro-ingénierie de flux de données, l'audit de sécurité sur infrastructures critiques et le monitoring de flux chiffrés via l'exploitation des privilèges ADB (Shizuku) sous environnement Termux.*
+Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github.com/SaycaLabs/research)
 
-* **[SAYCA LABS - Triadic Intelligence]** : *Protocole primitif pour les premières années de collaboration Homme-IA, pour un usage "bicéphale" des intelligences artificielles génératives et agentiques.*
-
-# 📂 Projets complétés
-
-* **[SAYCA LABS - Sailor Energy]** : *Projet complété et terminé. Optimisation de flux agentiques et logistiques via systèmes autonomes appliqués à la régie publicitaire physique.*
-
-</details>
+- **Architectures agentiques** — paradigmes ReAct/Reflexion, orchestration multi-agents, protocole MCP
+- **Inférence locale** — quantification GGUF/EXL2, modèles MoE pour exécution souveraine
+- **Systèmes** — RFC IPC haute performance, sécurité mémoire C/Unix
+- **IA neuro-symbolique** — hybridation raisonnement logique formel et modèles de langage
 
 ---
 
-<details>
-  <summary>⚙️ Méthodologie de travail</summary>
+## Autres dépôts
 
-* **Design-Driven Development :** Spécification d'architecture systématique avant production. La documentation est traitée comme un actif technique vital.
-
-* **Audit-Ready Codebase :** Modularité et commentaires aux standards industriels pour une transparence totale et une passation sans friction.
-
-* **Unix-Centric Robustness :** Application du principe de responsabilité unique. Priorité absolue à la stabilité systémique et à la réduction de la surface d'attaque.
-
-</details>
+| Dépôt | Description |
+|---|---|
+| [`dotfiles`](https://github.com/JasonSayca/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
+| Projets 42 | Licence privée École — non publiés |
 
 ---
 
-<details>
-  <summary>🌐 Stack de Veille & R&D</summary>
+## Liens
 
-* **Architectures Agentiques :** Analyse des paradigmes de planification (ReAct, Reflexion) et orchestration de flux multi-agents via le protocole **MCP**.
-
-* **Optimisation de l'Inférence :** Veille sur les techniques de quantification (GGUF, EXL2) et l'exécution locale de modèles **MoE (Mixture of Experts)** pour la souveraineté.
-
-* **Standards Systèmes :** Étude des RFC liées aux communications inter-processus (IPC) haute performance et à la sécurité mémoire en environnement C/Unix.
-
-* **IA Neuro-Symbolique :** Recherche sur l'hybridation entre raisonnement logique formel et modèles de langage pour garantir la fiabilité des décisions IA.
-
-</details>
-
----
-
-
-#### Rappel :
-#### L'Intelligence Artificielle Moderne n'est pas un effet de mode, c'est l'évolution logique de la stack informatique qui arrive bien avant les Super-Intelligences.
-
-<p align="center">
-  <img src="assets/timeline.png" width="75%" alt="Timeline">
-<p/>
+💼 **[LinkedIn](https://linkedin.com/in/sayca)**
+🎓 **[42 Nice](https://42nice.fr/)**
+🧪 **[Sayca Labs](https://saycalabs.com/)**
