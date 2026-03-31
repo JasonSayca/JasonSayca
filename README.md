@@ -50,15 +50,16 @@ Bibliothèques C, spécifications système, recherche appliquée, méthodologie 
 ## Méthodologie
 
 **Architecture avant implémentation.**
+
 Chaque projet passe par un contrat FIPOGE (Fichiers · Inputs · Process · Outputs · Guarantees · Errors) avant toute ligne de code. La documentation est un actif technique, pas une formalité.
 
-[Lire le protocole complet](https://github.com/SaycaLabs/engineering)
+[Lire le protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/FIPOGE%20protocol)
 
 ---
 
 ## Veille technique
 
-Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github.com/SaycaLabs/research)
+Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
 
 - **Architectures agentiques** — paradigmes ReAct/Reflexion, orchestration multi-agents, protocole MCP
 - **Inférence locale** — quantification GGUF/EXL2, modèles MoE pour exécution souveraine
@@ -82,4 +83,4 @@ Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github
 
 💼 **[LinkedIn](https://linkedin.com/in/sayca)**
 🎓 **[42 Nice](https://42nice.fr/)**
-🧪 **[Sayca Labs](https://saycalabs.com/)**
+🧪 **[Sayca Labs Webservice](https://saycalabs.com/)**
