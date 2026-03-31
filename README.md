@@ -1,4 +1,4 @@
-# Work In Progress : Readme & public repos
+# Work In Progress repositories
 
 Étudiant ingénieur à l'**École 42 Nice** — entré en novembre 2025, diplôme visé 2027.
 
