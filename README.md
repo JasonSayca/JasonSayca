@@ -44,13 +44,15 @@ Bibliothèques C, spécifications système, recherche appliquée, méthodologie 
 
 ────────────────────────────────────────────────────────────
 
-## Méthodologie
+## Méthodologie du Software Architect
 
-**Architecture avant implémentation.**
+On attaque les idées défaillantes **avant** d'attaquer un code long à produire et à débuguer.
 
-Chaque projet passe par un contrat FIPOGE (Fichiers · Inputs · Process · Outputs · Guarantees · Errors) avant toute ligne de code. La documentation est un actif technique, pas une formalité.
+**Donc** : on rédige l'architecture **avant** de traduire en code.
 
-[Lire le protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/FIPOGE%20protocol)
+C'est à celà que sert mon **BIOPGE Software Architecture protocol** que je crash-test sur mes projets de 42 Nice.
+
+[Lire le protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)
 
 ────────────────────────────────────────────────────────────
 
@@ -69,7 +71,7 @@ Partie exploratoire traitée dans [github.com/SaycaLabs/research](https://github
 
 | Dépôt | Description |
 |---|---|
-| [`BIOPGE Software Architecture protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol) | Ingénierie en 3 séquences sur la création de solutions sytèmes complexe. Rapide, Solide, Atypique. |
+| [`BIOPGE Software Architecture protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol) | Ingénierie en 3 phases sur la création de solutions sytèmes complexe. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
 | [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie axiomatique, orientée infra hyperscales, avec capacité d'évolution de C23 à C∞ |
 | Projets 42 | Licence privée École — non publiés |
