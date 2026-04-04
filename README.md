@@ -1,6 +1,6 @@
 Étudiant ingénieur à l'**École 42 Nice**, entré en novembre 2025, disponible mi-2027 pour Stages/Alternances certifiants.
 
-Je construis des systèmes bas-niveau en C, haut-niveau en Python, des outils d'infrastructure shell et des protocoles d'ingénierie documentés avant d'être implémentés.
+J'applique les règles de Software Architecture pour construire des systèmes bas-niveau en C, haut-niveau en Python, des outils d'infrastructure shell et d'autres protocoles d'ingénierie documentés avant d'être implémentés.
 
 ![Timeline](https://img.shields.io/badge/Disponibilité_Alternance-Deuxième_trimestre_2027-black?style=for-the-badge)
 
