@@ -1,8 +1,8 @@
-Étudiant ingénieur à l'**École 42 Nice**, entré en novembre 2025, disponible mi-2027 pour Stages/Alternances certifiants.
+Étudiant ingénieur à l'**École 42 Nice**.
 
 Software Architecture : systèmes bas-niveau en C, haut-niveau en Python, outils d'infrastructure shell et protocoles d'ingénierie documentés.
 
-![Timeline](https://img.shields.io/badge/Disponibilité_Alternance-Deuxième_trimestre_2027-black?style=for-the-badge)
+![Timeline](https://img.shields.io/badge/Disponibilité_Stages_&_Alternances-Deuxième_trimestre_2027-black?style=for-the-badge)
 
 ────────────────────────────────────────────────────────────
 
