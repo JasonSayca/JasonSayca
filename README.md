@@ -8,7 +8,7 @@ Software architecture, systèmes bas-niveau en C, haut-niveau en Python, outils 
 
 ## 🧪 Sayca Labs — Recherche & Ingénierie
 
-## **[=> Racine du dépôt SaycaLabs](https://github.com/JasonSayca/SaycaLabs/)**
+## **[=> Racine de mes travaux (Dépôt SaycaLabs)](https://github.com/JasonSayca/SaycaLabs/)**
 
 ## **[=> BIOPGE DesignByContract Protocol v0.25](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)**
 
