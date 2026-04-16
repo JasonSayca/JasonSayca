@@ -1,4 +1,4 @@
-2025-2028: Étudiant ingénieur à l'**École 42 Nice**.
+Étudiant ingénieur à l'**École 42 Nice**.
 
 Software architecture, systèmes bas-niveau en C, haut-niveau en Python, outils d'infra shell et protocoles d'ingénierie documentés.
 
