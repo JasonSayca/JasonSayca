@@ -10,7 +10,7 @@ Systèmes/logiciels bas et haut-niveau (ASM, C, Python, multi-language protocols
 
 ## **[=> Racine de mes travaux (Dépôt SaycaLabs)](https://github.com/JasonSayca/SaycaLabs/)**
 
-## **[=> "BIOPGE" DesignByContract Development Protocol v0.25](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)**
+## **[=> "BIOPGE" DesignByContract Development Protocol v0.27](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)**
 
 Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
 
@@ -48,9 +48,9 @@ Bibliothèques C, spécifications système, recherche appliquée, protocoles d'i
 
 ## Méthodologie de travail
 
-J'applique mon "**BIOPGE DesignByContract Protocol v0.25**" sur tous mes projets, et sujets de Programmes C23/Python à l'École 42.
+J'applique mon "**BIOPGE DesignByContract Protocol**" sur tous mes projets, et sujets de Programmes C23/Python à l'École 42.
 
-C'est un protocole de travail personnel, validé sur terrain, en cours de généralisation, qui remplie les besoin que les protocoles d'ingénierie existants ne traitent que partiellement.
+C'est un protocole de travail personnel, en cours de généralisation, qui remplie les besoin que les protocoles d'ingénierie existants ne traitent que partiellement.
 
 [Accéder au protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)
 
@@ -71,7 +71,7 @@ Partie exploratoire traitée dans [SaycaLabs.git/research](https://github.com/Ja
 
 | Dépôt | Description |
 |---|---|
-| [`BIOPGE DesignByContract Protocol v0.25`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol) | Ingénierie en 3 phases sur la création de solutions sytèmes complexe. |
+| [`BIOPGE DesignByContract Protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol) | 3 phases sur la création de solutions sytèmes complexe. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
 | [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie axiomatique, orientée infra hyperscales, avec capacité d'évolution de C23 à C∞ |
 | Projets 42 | Licence privée École — non publiés |
