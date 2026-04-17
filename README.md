@@ -8,7 +8,7 @@
 
 ## **[=> Racine de mes travaux (Dépôt SaycaLabs)](https://github.com/JasonSayca/SaycaLabs/)**
 
-## **[=> "BIOPGE" DesignByContract Development Protocol v0.27](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)**
+## **[=> "BIOPGE" DesignByContract Development Protocol v0.27](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
 Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**, complémentaire à mon cursus **École 42**.
 
@@ -50,7 +50,7 @@ J'applique mon "**BIOPGE DesignByContract Protocol**" sur tous mes projets, et s
 
 C'est un protocole de travail personnel, en cours de généralisation, qui remplie les besoin que les protocoles d'ingénierie existants ne traitent que partiellement.
 
-[Accéder au protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol)
+[Accéder au protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)
 
 ────────────────────────────────────────────────────────────
 
@@ -69,7 +69,7 @@ Partie exploratoire traitée dans [SaycaLabs.git/research](https://github.com/Ja
 
 | Dépôt | Description |
 |---|---|
-| [`BIOPGE DesignByContract Protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_Software_Architecture_protocol) | 3 phases sur la création de solutions sytèmes complexe. |
+| [`BIOPGE DesignByContract Protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol) | 3 phases sur la création de solutions sytèmes complexe. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
 | [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie basée sur C23, conçue pour optimiser des fonctions fondamentales, intégrables aux futures normes C∞ |
 | Projets 42 | Licence privée École — non publiés — projets dérivés uniquement |
