@@ -40,7 +40,7 @@ Bibliothèques (multi-language: ASM, C, Python), spécifications système, reche
 | Période | Phase | Focus |
 |:---|:---|:---|
 | 2021–2025 | Fondations | Ontologies logiques, structuration de données complexes, débuts en architecture de l'information sans programmation en languages informatiques |
-| 2025–2027 | En cours | C23, gestion mémoire, bibliothèques système (42 Nice) - ingénierie par contrat, travaux supplémentaires (Sayca Labs)  |
+| 2025–2027 | En cours | C23, gestion mémoire, bibliothèques système (42 Nice) - ingénierie par contrat, travaux de recherche personnels (Sayca Labs)  |
 | 2027–2030 | Visé | Alternance RNCP 6/7, architectures B2B, systèmes distribués |
 | Post-2030 | Objectif | Recherche industrielle : hybridation raisonnement symbolique et modèles agentiques |
 
