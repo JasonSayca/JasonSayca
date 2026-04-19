@@ -50,7 +50,7 @@ Bibliothèques (multi-language: ASM, C, Python), spécifications système, reche
 
 J'applique mon "**BIOPGE DesignByContract Protocol**" sur tous mes projets, et sujets de Programmes C23/Python à l'École 42.
 
-C'est un protocole de travail personnel, en cours de généralisation, qui remplie les besoin que les protocoles d'ingénierie existants ne traitent que partiellement.
+C'est un protocole de travail personnel, en cours de généralisation, qui remplit les besoins partiellement traités par les protocoles d'ingénierie existants.
 
 [Accéder au protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)
 
@@ -71,10 +71,9 @@ Partie exploratoire traitée dans [SaycaLabs.git/research](https://github.com/Ja
 
 | Dépôt | Description |
 |---|---|
-| [`BIOPGE DesignByContract Protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol) | 3 phases sur la création de solutions sytèmes complexe. |
+| [`BIOPGE DesignByContract Protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol) | 3 phases pour la compréhension, la conception et l'implémentation de solutions pour des sytèmes complexes. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
-| [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie basée sur C23, conçue pour optimiser des fonctions fondamentales, intégrables aux futures normes C∞ |
-| Projets 42 | Licence privée École — non publiés — projets dérivés uniquement |
+| [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie basée sur C23, conçue pour optimiser des fonctions fondamentales précisées dans le README associé. |
 
 ---
 
