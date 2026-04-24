@@ -1,9 +1,5 @@
 <h1 align="center" class="heading-element" dir="auto">🇫🇷 Développer franchouillard 🥖</h1>
 
-Étudiant en Génie Numérique à l'**École 42 Nice**.
-
----
-
 ## 🧪 [Portfolio "Sayca Labs"](https://saycalabs.com)
 
 ### Outils pour réduire la friction entre le mental et le réel
