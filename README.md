@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">👋 Hey, I'm Sayca !</h1>
 
-Étudiant ingénieur à l'**École 42 Nice**
+<b align="center" class="heading-element" dir="auto">Étudiant ingénieur à l'**École 42 Nice**</b>
 
 Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corriger & renforcer.
 
