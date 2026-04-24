@@ -6,7 +6,9 @@ Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corr
 
 ![Timeline](https://img.shields.io/badge/Disponibilité_Stages_&_Alternances-Deuxième_trimestre_2027-black?style=for-the-badge)
 
-────────────────────────────────────────────────────────────
+
+---
+
 
 ## 🧪 Sayca Labs — Recherche & Ingénierie
 
@@ -18,7 +20,9 @@ Tout mon travail de recherche et d'ingénierie est organisé sous **Sayca Labs**
 
 Bibliothèques (multi-language: ASM, C, Python), spécifications système, recherche appliquée, protocoles d'ingénierie système/logiciel et globaux.
 
-────────────────────────────────────────────────────────────
+
+---
+
 
 ## Compétences
 
@@ -35,7 +39,9 @@ Bibliothèques (multi-language: ASM, C, Python), spécifications système, reche
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-Zsh%2FBash-informational?style=flat-square)
 
-────────────────────────────────────────────────────────────
+
+---
+
 
 ## Trajectoire
 
@@ -46,7 +52,9 @@ Bibliothèques (multi-language: ASM, C, Python), spécifications système, reche
 | 2027–2030 | Visé | Alternance RNCP 6/7, architectures B2B, systèmes distribués |
 | Post-2030 | Objectif | Recherche industrielle : hybridation raisonnement symbolique et modèles agentiques |
 
-────────────────────────────────────────────────────────────
+
+---
+
 
 ## Méthodologie de travail
 
@@ -56,7 +64,9 @@ C'est un protocole de travail personnel, en cours de généralisation, qui rempl
 
 [Accéder au protocole complet](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)
 
-────────────────────────────────────────────────────────────
+
+---
+
 
 ## Veille technique
 
@@ -67,7 +77,9 @@ Partie exploratoire traitée dans [SaycaLabs.git/research](https://github.com/Ja
 - **Systèmes** — RFC IPC haute performance, sécurité mémoire C/Unix
 - **IA neuro-symbolique** — hybridation raisonnement logique formel et modèles de langage
 
-────────────────────────────────────────────────────────────
+
+---
+
 
 ## Projets
 
@@ -76,6 +88,8 @@ Partie exploratoire traitée dans [SaycaLabs.git/research](https://github.com/Ja
 | [`BIOPGE DesignByContract Protocol`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol) | 3 phases pour la compréhension, la conception et l'implémentation de solutions pour des sytèmes complexes. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
 | [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie basée sur C23, conçue pour optimiser des fonctions fondamentales précisées dans le README associé. |
+
+
 
 ---
 
