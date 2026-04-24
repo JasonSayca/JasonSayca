@@ -4,13 +4,17 @@ Salut ! Je suis étudiant-ambassadeur de l'**École 42 Nice**.
 
 ---
 
-## 🧪 Portfolio [Sayca Labs](https://saycalabs.com) - Réduire les frictions entre mental et concret
+## 🧪 [Portfolio Sayca Labs](https://saycalabs.com)
 
-**Protocoles de développement documentés et applicables seul** - externaliser les idées, formaliser sans surcharge, implémenter avec certitude.
+### Réduire les frictions entre mental et concret
 
 Travaux d'ingénierie et de recherche complémentaires aux cursus `RNCP 6`/`7` **École 42**.
 
-## **[=> Framework P.A.C.T v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
+---
+
+## **[=> Télécharger P.A.C.T v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
+
+### Protocole de développement logiciel seul ou en équipe
 
 **Actuellement** un framework de développement logiciel par contrat en 3 phases, solo-dev comme multi-devs. Construit et testé sur le cursus 42next.
 
