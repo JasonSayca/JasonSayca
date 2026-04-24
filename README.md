@@ -1,4 +1,4 @@
-<h1 align="center" class="heading-element" dir="auto">👋 Salut. Moi c'est Sayca !</h1>
+<h1 align="center" class="heading-element" dir="auto">🇫🇷 `LISMOI.déprécier` 🥖</h1>
 
 <b align="center" class="heading-element" dir="auto">Étudiant ingénieur à l'**École 42 Nice**</b
 
