@@ -9,20 +9,22 @@ Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corr
 
 ---
 
+## 🧪 Portfolio Sayca Labs - Réduire les frictions entre mental et concret
 
-## 🧪 Sayca Labs - Réduire les frictions entre mental et concret (Abstrait<->Logique<->Physique)
+**Protocoles de développement documentés et applicables seul** - externaliser les idées, formaliser sans surcharge, implémenter avec certitude.
 
-Travaux d'ingénierie et de recherche documentés, complémentaires aux cursus `RNCP 6`/`7` **École 42**.
+Travaux d'ingénierie et de recherche complémentaires aux cursus `RNCP 6`/`7` **École 42**.
 
-## **[➡️ P.A.C.T framework v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)** | 
+## **[➡️ P.A.C.T framework v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
-**Actuelllement** un framework de développement logiciel par contrat en 3 phases, solo-dev comme multi-devs.
+**Actuellement** un framework de développement logiciel par contrat en 3 phases, solo-dev comme multi-devs. Construit et testé sur le cursus 42next.
 
-**Dérivable** à l'avenir pour les architectures agentiques supervisées et autonomes.
+**Dérivable** à l'avenir (2027 Q1) pour les architectures agentiques supervisées et autonomes.
 
 ---
 
-### Compétences
+<details>
+  <summary>Compétences *(détailler)*</summary>
 
 | Domaine | Technologies | Posture |
 |:---|:---|:---|
@@ -30,6 +32,8 @@ Travaux d'ingénierie et de recherche documentés, complémentaires aux cursus `
 | **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` | Environnements isolés, reproductibles, auditables |
 | **Systèmes autonomes** | `Python`, `LLM`, `APIs` | Automatisation des flux critiques avec supervision humaine |
 | **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine |
+
+</details>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,7 +45,8 @@ Travaux d'ingénierie et de recherche documentés, complémentaires aux cursus `
 ---
 
 
-### Trajectoire
+<details>
+  <summary>Trajectoire *(détailler)*</summary>
 
 | Période | Phase | Focus |
 |:---|:---|:---|
@@ -50,6 +55,7 @@ Travaux d'ingénierie et de recherche documentés, complémentaires aux cursus `
 | 2027–2030 | Visé | Alternance RNCP 6/7, architectures B2B, systèmes distribués |
 | Post-2030 | Objectif | Recherche industrielle : hybridation raisonnement symbolique et modèles agentiques |
 
+</details>
 
 ---
 
@@ -57,7 +63,7 @@ Travaux d'ingénierie et de recherche documentés, complémentaires aux cursus `
 ### Veille technique & extensions futures
 
 Recherches appliquées traitées dans [SaycaLabs.git/research](https://github.com/JasonSayca/SaycaLabs/tree/main/research/)
-où `PACT` sert de fondation formelle aux explorations suivantes :
+où les explorations suivantes appliquent les principes de `PACT` :
 
 - **Architectures agentiques** - typifier les agents par contrats réactifs
 - **Inférence locale** - quantification GGUF/EXL2, modèles MoE pour exécution souveraine
