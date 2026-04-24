@@ -1,6 +1,6 @@
-<center>👋 Hey, I'm Sayca !</center>
+<h1 style="text-align: center;">👋 Hey, I'm Sayca !</h1>
 
-<center>Étudiant ingénieur à l'**École 42 Nice**</center>
+Étudiant ingénieur à l'**École 42 Nice**
 
 Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corriger & renforcer.
 
