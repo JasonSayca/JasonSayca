@@ -1,11 +1,6 @@
-<h1 align="center" class="heading-element" dir="auto">👋 Hey, I'm Sayca !</h1>
+<h1 align="center" class="heading-element" dir="auto">👋 Salut. Moi c'est Sayca !</h1>
 
-<b align="center" class="heading-element" dir="auto">Étudiant ingénieur à l'**École 42 Nice**</b>
-
-Je cherche des pairs qui sont en désaccord avec mes méthodes, afin de les corriger & renforcer.
-
-![Timeline](https://img.shields.io/badge/Disponibilité_Stages_&_Alternances-Deuxième_trimestre_2027-black?style=for-the-badge)
-
+<b align="center" class="heading-element" dir="auto">Étudiant ingénieur à l'**École 42 Nice**</b
 
 ---
 
