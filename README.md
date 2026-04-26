@@ -1,20 +1,18 @@
-<h1 align="center" class="heading-element" dir="auto">🇫🇷 Coucou 🥖</h1>
+<h1 align="center" class="heading-element" dir="auto">🧪 [Portfolio - Sayca Labs](https://saycalabs.com)</h1>
 
-## 🧪 [Portfolio "Sayca Labs"](https://saycalabs.com)
+### Réduire la friction entre les Idées, le Plan et le Concret
 
-### Réduire la friction entre les idées et la production
-
-Travaux d'ingénierie et de recherche complémentaires aux cursus `RNCP 6`/`7` **École 42**.
+Travaux de recherche et d'ingénierie système/logicielle complémentaires aux cursus `RNCP 6`/`7` **École 42**.
 
 ---
 
-## **[=> Télécharger P.A.C.T v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
+## **[=> Visionner P.A.C.T v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
-### Protocole de développement logiciel seul ou en équipe
+### Procédure en 3 phases de développement logiciel
 
-**Actuellement** un framework de développement logiciel par contrat en 3 phases, solo-dev comme multi-devs. Construit et testé sur le cursus 42next.
+**Actuellement**, il s'agit d'un framework de d'architecture système par contrat en 3 Frames, solo-dev comme multi-devs. Construit et testé pendant le cursus 42next.
 
-**Dérivable** à l'avenir (2027 Q1) pour les architectures agentiques supervisées et autonomes.
+**Dérivable** à l'avenir (2027 Q1) pour les architectures agentiques, supervisées par l'Homme, puis autonomes.
 
 ---
 
