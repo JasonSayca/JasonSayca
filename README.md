@@ -8,7 +8,7 @@ Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `
 
 ## **[=> Visionner P.A.C.T v0.4](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
 
-### Procédure en 3 phases de développement logiciel
+### Procédure de développement logiciel
 
 **Actuellement**, il s'agit d'un framework de d'architecture système par contrat en 3 Frames, solo-dev comme multi-devs. Construit et testé pendant le cursus 42next.
 
