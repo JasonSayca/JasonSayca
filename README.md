@@ -12,7 +12,7 @@ Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `
 
 Il s'agit d'un framework simplifié d'architecture système par contrat, en 3 Frames, solo-dev comme multi-devs. 
 
-Construit et testé durant le cursus 42next., **dérivable** à l'avenir (2027 Q1) pour les architectures agentiques.
+Construit et utilisé pendant mon cursus 42next, **dérivable** à l'avenir (2027 Q1) pour les architectures agentiques.
 
 ---
 
