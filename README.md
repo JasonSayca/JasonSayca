@@ -6,7 +6,7 @@ Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `
 
 ---
 
-## **[=> Visionner P.A.C.T v0.50](https://github.com/JasonSayca/PACT_Protocol)**
+## **[=> Visionner P.A.C.T v0.50 <=](https://github.com/JasonSayca/PACT_Protocol)**
 
 ### Protocole de développement logiciel
 
