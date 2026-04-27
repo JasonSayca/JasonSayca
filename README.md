@@ -1,16 +1,16 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Portfolio | Sayca Labs</h1>
 
-### Réduire la friction entre l'Idée, le Contrat et l'Implémentation de chaque système
+### Maîtrise des frictions Concept<->Contrat<->Code sur chaque système logiciel
 
 Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `RNCP 6`/`7` **École 42**
 
 ---
 
-## **[=> Visionner P.A.C.T v0.50](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol)**
+## **[=> Visionner P.A.C.T v0.50](https://github.com/JasonSayca/PACT_Protocol)**
 
 ### Protocole de développement logiciel
 
-Il s'agit d'un framework d'architecture système par contrat, en 3 Frames, unifiant plusieurs normes d'ingénierie. Solo ou multi-devs. 
+Architecture système par contrat en 3 Plans, free-to-use, rendant plusieurs normes d'ingénierie pour les solo-dev et dev-teams.
 
 Construit et utilisé pendant mon cursus 42next, **dérivable** à l'avenir (2027 Q1) pour les architectures agentiques.
 
@@ -54,7 +54,7 @@ où les explorations suivantes appliquent les principes de `PACT` :
 
 | Dépôt | Description |
 |---|---|
-| [`PACT v0.4`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/BIOPGE_DevByContract_Protocol) | Synthèse opérationnelle de Design by Contract (Meyer, 1986) et Hoare Logic (1969), structurée en 3 frames ontologiques distincts : Abstrait → Logique → Concret. Conçu pour rester utilisable par un ingénieur seul, là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
+| [`PACT v0.4`](https://github.com/JasonSayca/PACT_Protocol) | Synthèse opérationnelle de Design by Contract (Meyer, 1986) et Hoare Logic (1969), structurée en 3 frames ontologiques distincts : Abstrait <-> Logique <-> Concret. Conçu pour rester utilisable par un ingénieur seul, là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
 | [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie basée sur C23, conçue pour optimiser des fonctions fondamentales précisées dans le README associé. |
 
