@@ -10,7 +10,7 @@ Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `
 
 ### Pipeline d'Architecture *(logicielle)* par Construction Tripartite
 
-Workflow réunissant plusieurs normes d'ingénierie, en 3 plans épistemiques, compatibles solo-dev, dev-team, avec ou sans IA.
+Méthode de travail qui se déclenche à partir d'un certain seuil de complexité d'un système logicielle à concevoir et produire. Il réunit plusieurs normes d'ingénierie, en 3 plans épistemiques, compatibles solo-dev, dev-team, avec ou sans IA. Permet d'inverser la flèche de temps perdu sur un travail sans protocole.
 
 Construit et utilisé pendant mon cursus 42next, **dérivable** à l'avenir (2027 Q1) pour les architectures agentiques autonomes.
 
