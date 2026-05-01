@@ -1,8 +1,7 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Baisse des frictions Problème<->Concept<->Contrat<->Code
-
-Travaux de recherche et d'ingénierie logicielle - complémentaires aux cursus `RNCP 6`/`7` **École 42**
+### Conception, Production et Gestion de systèmes/logiciels
+Travaux de recherche et d'ingénierie logicielle complémentaires aux cursus `RNCP 6`/`7` **École 42**
 
 ---
 
