@@ -1,7 +1,7 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
 ### Conception, Production, Gestion de systèmes/logiciels bas/haut niveau
-Travaux de recherche et d'ingénierie logicielle en plus de la certification `RNCP 6`/`7` **via mon cursus École 42**
+Travaux de recherche et d'ingénierie logicielle avec certification `RNCP 6`/`7` **via mon cursus École 42**
 
 ---
 
