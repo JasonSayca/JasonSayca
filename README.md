@@ -1,17 +1,17 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Conception, Production et Gestion de systèmes/logiciels
-Travaux de recherche et d'ingénierie logicielle complémentaires aux cursus `RNCP 6`/`7` **École 42**
+### Conception, Production, Gestion de systèmes/logiciels bas/haut niveau
+Travaux de recherche et d'ingénierie logicielle en plus de la certification `RNCP 6`/`7` **via mon cursus École 42**
 
 ---
 
-## **[=> Pipeline de travail P.A.C.T_v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
+## **[=> Pipeline de travail actuel P.A.C.T_v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
 ### Pipeline d'Architecture *(logicielle)* par Construction Tripartite
 
-Méthode de travail qui se déclenche à partir d'un certain seuil de complexité d'un système logicielle à concevoir et produire. Il réunit plusieurs normes d'ingénierie, en 3 plans épistemiques, compatibles solo-dev, dev-team, avec ou sans IA. Permet d'inverser la flèche de temps perdu sur un travail sans protocole.
+Méthode de travail qui se déclenche à partir d'un certain seuil de complexité système (client/sujet42/business). Il compacte plusieurs normes d'ingénierie, en 3 phases, compatibles solo-dev, dev-team, avec ET sans IA. Permet d'inverser la flèche de temps consommé par un travail sans protocole.
 
-Construit et utilisé pendant mon cursus 42next, **dérivable** à l'avenir (2027 Q1) pour les architectures agentiques autonomes.
+Construit et utilisé pendant mon cursus 42next, **dérivable** à l'avenir (2027 Q1) pour les architectures agentiques autonomes, sans intervention humaine niveau opérateur, uniquement pour managers et plus.
 
 ---
 
