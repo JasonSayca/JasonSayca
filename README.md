@@ -8,13 +8,13 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ---
 
-### **[=> Méthode de travail P.A.C.T_v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
+### **[=> "PACT: Beyond the Code"_v0.51.2](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
-### Pipeline d'Architecture *logicielle* par Construction Tripartite
+### *Pipeline d'architecture causale et transitive*
 
-Solo, équipes duo et trio, pipeline pertinent au delà d'un certain seuil de "densité" d'un système (customer_request / 42_subject / business_product). Il compacte plusieurs normes d'ingénierie, en 3 phases, avec OU sans assistants IA. Permet de contracter le temps de conception et d'implémentation.
+**Ingénieurs Système, étudiants 42, développeurs scripteurs** avec OU sans assistants IA. Ce pipeline de Software Engineering contracte plusieurs normes d'ingénierie en optimisant votre temps de conception et d'implémentation du contenu numérique, peu importe son domaine, fiable, auditable et héritable.
 
-Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3+).
+Construit et utilisé pendant mon cursus 42next (pour la densité logicielle supérieure au Cercle 2).
 
 ---
 
