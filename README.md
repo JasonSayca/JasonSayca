@@ -18,7 +18,7 @@ Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3
 
 ---
 
-## Mes compétences 
+# 📝 Mes compétences 
 
 1. Over Stack
 2. Tech Stack
