@@ -1,23 +1,27 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Sys. Engineering & Architecture
+### Sys. engineering & architecture
 
-Travaux de recherche et de production logicielle, avec certification `RNCP 6`/`7` **via cursus 42 Nice**
+Travaux de recherche et de production logicielle, multi-domaimes, bas/haut-niveau. 
 
----
-
-## **[=> Pipeline de travail solo à trio P.A.C.T_v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
-
-### Pipeline d'Architecture par Construction Tripartite
-
-Méthode de travail qui se déclenche à partir d'un certain seuil de complexité système (client/sujet42/business). Il compacte plusieurs normes d'ingénierie, en 3 phases, compatibles solo-dev, dev-team, avec ET sans IA. Permet d'inverser la flèche de temps consommé par un travail sans protocole.
-
-Construit et utilisé pendant mon cursus 42next, **dérivable** à l'avenir (2027 Q1) pour les architectures agentiques autonomes, sans intervention humaine niveau opérateur, uniquement pour managers et plus.
+Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ---
 
+# 1. Workflow
 
-# Tech Stack
+### **[=> Pipeline de travail P.A.C.T_v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
+
+### Pipeline d'Architecture *logicielle* par Construction Tripartite
+
+Méthode de travail qui se déclenche à partir d'un certain seuil de complexité système (customer_request / 42_subject / business_product). Il compacte plusieurs normes d'ingénierie, en 3 phases, avec OU sans assistants IA.
+
+Construit et utilisé pendant mon cursus 42next (utile seulement à partir du 3ème cercle.)
+
+---
+
+
+# 2. Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
