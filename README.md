@@ -1,13 +1,14 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Conception, Production, Gestion de sys. numériques et logiciels
-Travaux de recherche et d'ingénierie logicielle, avec certification `RNCP 6`/`7` **via cursus 42 Nice**
+### Systems Engineering & Architecture
+
+Travaux de recherche et de production logicielle, avec certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ---
 
 ## **[=> Pipeline de travail solo à trio P.A.C.T_v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
-### Pipeline d'Architecture *(logicielle)* par Construction Tripartite
+### Pipeline d'Architecture par Construction Tripartite
 
 Méthode de travail qui se déclenche à partir d'un certain seuil de complexité système (client/sujet42/business). Il compacte plusieurs normes d'ingénierie, en 3 phases, compatibles solo-dev, dev-team, avec ET sans IA. Permet d'inverser la flèche de temps consommé par un travail sans protocole.
 
