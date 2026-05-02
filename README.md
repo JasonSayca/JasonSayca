@@ -20,7 +20,7 @@ Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3
 
 # 📝 Mes compétences 
 
-1. Over Stack
+1. Posture
 2. Tech Stack
 3. Veille technique
 4. Projets
@@ -35,7 +35,7 @@ Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3
 
 4. **Intégration de domaines hétérogènes** (pensée et système transversaux permettant d'intégrer des domaines hors-spécialisation).
 
-5. **Conception d'outils cognitifs** qui profitent l'augmentation des compétences humaines et la capacités de travail par l'argentique IA.
+5. **Conception d'outils cognitifs** visant l'augmentation des compétences humaines et les capacités de travail par l'agentique IA.
 
 
 ## 2. Tech Stack
@@ -51,7 +51,7 @@ Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3
 | **Bas niveau** | `C11`, `Unix`, `Shell` | Maîtriser les primitives pour l'abstraction logicielle |
 | **Infrastructure** | `Docker`, `Linux`, `Git`, `Cloudflare` | Environnements isolés, reproductibles, auditables |
 | **Systèmes autonomes** | `Python`, `LLM`, `APIs` | Automatisation des flux (banale à sensible) avec supervision humaine |
-| **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine, suffisante sans spécialisation web. |
+| **Web & déploiement** | `Astro`, `SvelteKit`, `Cloudflare Pages` | Interfaces légères sur infrastructure souveraine, sans spécialisation front. |
 
 
 ---
