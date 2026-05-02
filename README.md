@@ -20,7 +20,7 @@ Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3
 
 # 📝 Mes compétences 
 
-1. Posture (over-stack)
+1. Posture
 2. Tech Stack
 3. Veille technique
 4. Projets
@@ -75,9 +75,9 @@ où les explorations suivantes appliquent les principes de `PACT` :
 
 | Dépôt | Description |
 |---|---|
-| [`PACT v0.51`](https://github.com/Sayca-Jferone/PACT_Protocol) | Synthèse opérationnelle de Design by Contract (Meyer, 1986) et Hoare Logic (1969), structurée en 3 frames ontologiques distincts : Abstrait <-> Logique <-> Concret. Conçu pour rester utilisable par un ingénieur seul, là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
+| [`PACT v0.51`](https://github.com/Sayca-Jferone/PACT_Protocol) | Synthèse opérationnelle structurée en 3 frames ontologiques: Flou <-> Formel <-> Concret. Là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
-| [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie basée sur C23, conçue pour optimiser des fonctions fondamentales précisées dans le README associé. |
+| [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie exploratoire basée sur C23. |
 
 
 ---
