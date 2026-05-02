@@ -8,7 +8,7 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ---
 
-### **[=> "PACT: Beyond the Code"_v0.51.2](https://github.com/Sayca-Jferone/PACT_Protocol)**
+### **[=> "PACT: Beyond the Code" version 0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
 ### *Pipeline d'architecture causale et transitive*
 
