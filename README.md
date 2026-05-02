@@ -6,18 +6,6 @@ Travaux de recherche et d'ingénierie logicielle, multi-domaines, bas/haut-nivea
 
 Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
-### Compétences principales
-
-1. **Modélisation de systèmes** en contrats, flux et invariants, avant le script.
-
-2. **Typage épistémique** pour qualifier et intégrer ce qui n'est pas maîtrisé dans un système.
-
-3. **Architecture auto-documentée** (PACT, BIOPGE) lisible par l'humain comme l'algo assistant.
-
-4. **Intégration de domaines hétérogènes** par la pensée et la conception transversales avant de produire du script 
-
-5. **Conception d'outils cognitifs** qui profitent l'augmentation des capacités de travail à la place du divertissement.
-
 ---
 
 ### **[=> Pipeline de travail P.A.C.T_v0.51 (solo/duo/trio)](https://github.com/Sayca-Jferone/PACT_Protocol)**
@@ -30,8 +18,25 @@ Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3
 
 ---
 
+1. Over Stack
+2. Tech Stack
+3. Veille technique
+4. Projets
 
-## Tech Stack
+### 1. Over Stack
+
+1. **Modélisation de systèmes** en contrats, flux et invariants, avant le script.
+
+2. **Typage épistémique** pour qualifier et intégrer ce qui n'est pas maîtrisé dans un système.
+
+3. **Architecture auto-documentée** (PACT, BIOPGE) lisible par l'humain comme l'algo assistant.
+
+4. **Intégration de domaines hétérogènes** par la pensée et la conception transversales avant de produire du script 
+
+5. **Conception d'outils cognitifs** qui profitent l'augmentation des capacités de travail à la place du divertissement.
+
+
+## 2. Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
