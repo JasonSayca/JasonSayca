@@ -75,7 +75,7 @@ où les explorations suivantes appliquent les principes de `PACT` :
 
 | Dépôt | Description |
 |---|---|
-| [`PACT v0.51`](https://github.com/Sayca-Jferone/PACT_Protocol) | Synthèse opérationnelle structurée en 3 frames ontologiques: Flou <-> Formel <-> Concret. Là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
+| [`PACT v0.51`](https://github.com/Sayca-Jferone/PACT_Protocol) | Synthèse opérationnelle structurée en 3 frames ontologiques: Abstrait <-> Formel <-> Concret. Là où les protocoles formels complets (B Method, VDM) ont échoué à l'adoption individuelle. |
 | [`dotfiles`](https://github.com/JasonSayca/SaycaLabs/tree/main/engineering/dotfiles) | Configurations shell modulaires — WSL2, Linux, macOS |
 | [`axiom_libc`](https://github.com/JasonSayca/SaycaLabs/tree/main/research/axiom_libc) | Librairie exploratoire basée sur C23. |
 
