@@ -29,13 +29,13 @@ Construit, puis utilisé pendant mon cursus 42next (densité logicielle cercle 3
 
 1. **Modélisation de systèmes** en contrats, flux et invariants, avant le script.
 
-2. **Typage épistémique** pour qualifier et intégrer ce qui n'est pas maîtrisé dans un système.
+2. **Typage épistémique** pour qualifier et intégrer isolement ce qui n'est pas maîtrisé dans un système/logiciel.
 
-3. **Architecture auto-documentée** (PACT, BIOPGE) lisible par l'humain comme l'algo assistant.
+3. **Architecture auto-documentée** (PACT, BIOPGE) lisible par l'humain et l'artificiel.
 
-4. **Intégration de domaines hétérogènes** par la pensée et la conception transversales avant de produire du script 
+4. **Intégration de domaines hétérogènes** (pensée et système transversaux permettant d'intégrer des domaines hors-spécialisation).
 
-5. **Conception d'outils cognitifs** qui profitent l'augmentation des capacités de travail à la place du divertissement.
+5. **Conception d'outils cognitifs** qui profitent l'augmentation des compétences humaines et la capacités de travail par l'argentique IA.
 
 
 ## 2. Tech Stack
