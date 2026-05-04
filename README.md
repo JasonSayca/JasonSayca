@@ -10,13 +10,13 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ### **[=> "PACT: Beyond the Code" version v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
-### *Pipeline d'architecture causale et transitive*
+### *Procedure for Architecture Contracts and Typing* — domain agnostic
 
 **Ingénieurs Système, étudiants 42, développeurs toutes stacks** avec OU sans assistants IA.
 
-Ce pipeline de Software Engineering contracte plusieurs normes d'ingénierie en optimisant votre temps de conception et d'implémentation du contenu numérique, peu importe son domaine, fiable, auditable et héritable.
+Cette procédure initialement conçue pour le Software Engineering contracte plusieurs normes d'ingénierie en optimisant votre temps de conception et d'implémentation du contenu numérique, peu importe son domaine, fiable, auditable et héritable.
 
-Construit et utilisé pendant mon cursus 42next (pour la densité logicielle supérieure au Cercle 2).
+Créé, formalisé puis utilisé tout le long de mon cursus 42next (pour de la densité logicielle supérieure au Cercle 2).
 
 ---
 
