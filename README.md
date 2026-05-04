@@ -8,15 +8,21 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ---
 
-### **[=> "PACT: Beyond the Code" version v0.51](https://github.com/Sayca-Jferone/PACT_Protocol)**
+### **[PACT v0.51 — Procedure for Architecture Contracts and Typing](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
-### *Procedure for Architecture Contracts and Typing* — domain agnostic
+La plupart des projets échouent en amont du code : spécification floue,
+interfaces non contractualisées, dette de conception invisible.
+Les protocoles formels complets (B Method, VDM) ont certes résolu ce problème
+théoriquement, mais échoué à l'adoption individuelle.
 
-**Ingénieurs Système, étudiants 42, développeurs toutes stacks** avec OU sans assistants IA.
+**PACT est une procédure légère en 3 phases (CheckList → Architecture → Implémentation)**
+qui force la contractualisation de chaque interface avant d'écrire une ligne.
+Chaque composant est défini par ses Blocs, Invariants, Outputs, Processus, Garanties et Erreurs (BIOPGE).
 
-Cette procédure initialement conçue pour le Software Engineering contracte plusieurs normes d'ingénierie en optimisant votre temps de conception et d'implémentation du contenu numérique, peu importe son domaine, fiable, auditable et héritable.
+Fondé et utilisé sur l'intégralité de mon cursus 42 (Cercle 2+). Clarifie la courbe d'apprentissage. Compatible LLM-assisté et sans IA.
 
-Créé, formalisé puis utilisé tout le long de mon cursus 42next (pour de la densité logicielle supérieure au Cercle 2).
+**Cible :** Étudiants 42, ingénieurs système, développeurs toutes stacks cherchant
+une rigueur formelle sans overhead de méthode complète.
 
 ---
 
