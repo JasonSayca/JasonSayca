@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Sys. engineering & architecture
+### Software engineering
 
 Travaux de recherche et d'ingénierie logicielle, multi-domaines, bas/haut-niveau. 
 
@@ -8,18 +8,18 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ---
 
-### **[PACT v0.51 — Procedure for Architecture Contracts and Typing](https://github.com/Sayca-Jferone/PACT_Protocol)**
+### **[PACT v0.51 — Programmation par Architecture Contractuellement Typée](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
-La plupart des projets échouent en amont du code : spécification floue,
+La plupart des projets échouent bien avant le code : sujet ambigüe, spécification floue,
 interfaces non contractualisées, dette de conception invisible.
-Les protocoles formels complets (B Method, VDM) ont certes résolu ce problème
+Les protocoles déjà existants (B Method, VDM) ont certes résolu ce problème
 théoriquement, mais échoué à l'adoption individuelle.
 
-**PACT est une procédure légère en 3 phases (CheckList → Architecture → Implémentation)**
+**PACT est une procédure légère en 3 phases (CheckList → Architecture → Implémentation codée)**
 qui force la contractualisation de chaque interface avant d'écrire une ligne.
 Chaque composant est défini par ses Blocs, Invariants, Outputs, Processus, Garanties et Erreurs (BIOPGE).
 
-Fondé et utilisé sur l'intégralité de mon cursus 42 (Cercle 2+). Clarifie la courbe d'apprentissage. Compatible LLM-assisté et sans IA.
+Fondé et utilisé sur l'intégralité de mon cursus 42 (Cercle 2+). Clarifie la courbe d'apprentissage. Compatible sans IA, reste moins pesant avec IA rédactrice de documentations.
 
 **Cible :** Étudiants 42, ingénieurs système, développeurs toutes stacks cherchant
 une rigueur formelle sans overhead de méthode complète.
