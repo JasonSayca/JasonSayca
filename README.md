@@ -30,12 +30,7 @@ une rigueur formelle sans over-engineering.
 
 # 📝 Mes compétences 
 
-1. Posture
-2. Tech Stack
-3. Veille technique
-4. Projets
-
-### 1. Posture
+## 1. Posture
 
 1. **Modélisation de systèmes** en contrats, flux et invariants, avant le script.
 
@@ -81,7 +76,7 @@ où les explorations suivantes appliquent les principes de `PACT` :
 ---
 
 
-### Projets
+## ⚙️ Projets extra-42
 
 | Dépôt | Description |
 |---|---|
