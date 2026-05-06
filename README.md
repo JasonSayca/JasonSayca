@@ -8,21 +8,23 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ---
 
-### **[PACT v0.51 — Programmation par Architecture Contractuellement Typée](https://github.com/Sayca-Jferone/PACT_Protocol)**
+# 📐 Mon workflow
 
-La plupart des projets échouent bien avant le code : sujet ambigüe, spécification floue,
-interfaces non contractualisées, dette de conception invisible.
-Les protocoles déjà existants (B Method, VDM) ont certes résolu ce problème
-théoriquement, mais échoué à l'adoption individuelle.
+### **[PACT v0.51.3 — Programmation par Architecture Contractuellement Typée](https://github.com/Sayca-Jferone/PACT_Protocol)**
 
-**PACT est une procédure légère en 3 phases (CheckList → Architecture → Implémentation codée)**
-qui force la contractualisation de chaque interface avant d'écrire une ligne.
+La plupart des projets échouent avant le code : sujet ambigüe, spécification floue,
+interfaces non contractualisées, dette de conception invisible. L'écart entre la volonté et le produit défaille.
+Les protocoles existants (B Method, VDM) ont certes résolu ce problème
+théoriquement, mais ils restent partiels et ont échoué à l'adoption individuelle.
+
+**PACT est une procédure légère en 3 phases (CheckList → Architecture → Implémentation)**
+qui force la contractualisation de chaque composant (fichier, système, agent) pour son debug logique, avant d'écrire le code.
 Chaque composant est défini par ses Blocs, Invariants, Outputs, Processus, Garanties et Erreurs (BIOPGE).
 
-Fondé et utilisé sur l'intégralité de mon cursus 42 (Cercle 2+). Clarifie la courbe d'apprentissage. Compatible sans IA, reste moins pesant avec IA rédactrice de documentations.
+Fondé et utilisé sur l'intégralité de mon cursus 42 (Cercle 2+). Optimise la vitesse d'apprentissage **ET** de production.
 
 **Cible :** Étudiants 42, ingénieurs système, développeurs toutes stacks cherchant
-une rigueur formelle sans overhead de méthode complète.
+une rigueur formelle sans over-engineering.
 
 ---
 
