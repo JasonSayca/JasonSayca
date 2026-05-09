@@ -4,11 +4,11 @@
 
 Travaux de recherche/innovation en génie logiciel (bas/haut-niveau) et en résolutions transversales.
 
-> Sommaire | 📐 Workflow / 📝 Compétences / ⚙️ Projets extra-42
+> Défilement : 📐Workflow / 📝Compétences / ⚙️Projets extra-42
 
 ---
 
-# 📐 Mon workflow
+# 📐 Workflow
 
 ### 0.💭 <-> I.📋 <-> II.🗺️ <-> III.🏗️
 
@@ -34,7 +34,7 @@ une rigueur formelle **sans over-engineering**.
 
 ---
 
-# 📝 Mes compétences 
+# 📝 Compétences 
 
 ## 1. Posture
 
