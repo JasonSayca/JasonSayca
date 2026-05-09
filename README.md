@@ -10,25 +10,27 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 # 📐 Mon workflow
 
-### PACT - Production par Architecture Contractuelle et Tracée
+### 0.💭 <-> I.📋 <-> II.🗺️ <-> III.🏗️
 
-### **[→ PACT version Software Engineering - (v0.52)](https://github.com/Sayca-jferone/PACT_IT)**
+### **[→ Procédure spéciale "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-#### **[PACT version tout-domaine confondu - (v0.50)](https://github.com/Sayca-jferone/PACT_AnyDomain)**
+### **[→ Procédure globale "PACT Tout-domaine confondu" (v0.50)](https://github.com/Sayca-jferone/PACT_GlobalEngineering)**
 
 La plupart des projets échouent avant le code : sujet ambigüe, spécification floue,
-interfaces non contractualisées, dette de conception invisible. L'écart entre la volonté et le produit défaille.
-Les protocoles existants (B Method, VDM) ont certes résolu ce problème
-théoriquement, mais ils restent partiels et ont échoué à l'adoption individuelle.
+interfaces non contractualisées, dette de conception invisible, création directe in-code.
+
+L'écart entre Réalité, Volonté et Produit défaille progressivement : frictions mentales et pertes globales.
+Les protocoles existants (B Method, VDM) ont, certes, résolu ce problème
+théoriquement, mais ils restent partiels et ont échoué à l'adoption individuelle et tout-niveau de complexité.
 
 **PACT est une procédure légère en 3 phases (CheckList → Architecture → Implémentation)**
-qui force la contractualisation de chaque composant (fichier, système, agent) pour son debug logique, avant d'écrire le code.
-Chaque composant est défini par ses Blocs, Invariants, Outputs, Processus, Garanties et Erreurs (BIOPGE).
+qui force la contractualisation de chaque composant clé (fichier, système, agent) pour son debug logique, avant d'écrire son code.
+Chaque composant est défini par ses Behaviours, Invariants, Outputs, Processus, Garanties et Erreurs (BIOPGE).
 
-Fondé et utilisé sur l'intégralité de mon cursus 42 (Cercle 2+). Optimise la vitesse d'apprentissage **ET** de production.
+Fondé et utilisé sur l'intégralité de mon cursus 42 (Cercle 2+). Optimise la vitesse d'apprentissage **ET** la qualité de production.
 
 **Cible :** Étudiants 42, ingénieurs système, développeurs toutes stacks cherchant
-une rigueur formelle sans over-engineering.
+une rigueur formelle **sans over-engineering**.
 
 ---
 
