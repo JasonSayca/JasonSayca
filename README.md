@@ -10,9 +10,9 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 # 📐 Mon workflow
 
-### PACT - Production
+### PACT - Production par Architecture Contractuelle et Tracée
 
-### **[PACT version Software Engineering (v0.52.5)](https://github.com/Sayca-jferone/PACT_IT)**
+### **[→ PACT version Software Engineering - (v0.52)](https://github.com/Sayca-jferone/PACT_IT)**
 
 #### **[PACT version tout-domaine confondu - (v0.50)](https://github.com/Sayca-jferone/PACT_AnyDomain)**
 
