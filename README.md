@@ -15,7 +15,7 @@ Travaux de recherche/innovation en génie logiciel (bas/haut-niveau) et en réso
 ### **[→ Procédure globale "PACT Any-domain solutions building" (v0.50)](https://github.com/Sayca-jferone/PACT_GlobalEngineering)**
 
 La plupart des projets échouent avant le code : sujet ambigüe, spécification floue,
-interfaces non contractualisées, dette de conception invisible, création directe in-code.
+interfaces non contractualisées, dette de conception invisible, invention de solutions locales directement dans le code.
 
 L'écart entre Réalité, Volonté et Produit défaille progressivement : frictions mentales et pertes globales.
 Les protocoles existants (B Method, VDM) ont, certes, résolu ce problème
