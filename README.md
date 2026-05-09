@@ -1,10 +1,8 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Software engineering
+### Software Engineering - `RNCP 6 & 7` 42 Nice
 
-Travaux de recherche et d'ingénierie logicielle, multi-domaines, bas/haut-niveau. 
-
-Certification `RNCP 6`/`7` **via cursus 42 Nice**
+Travaux de recherche/innovation en génie logiciel (bas/haut-niveau) et en résolutions transversales.
 
 ---
 
@@ -14,7 +12,7 @@ Certification `RNCP 6`/`7` **via cursus 42 Nice**
 
 ### **[→ Procédure spéciale "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-### **[→ Procédure globale "PACT Tout-domaine confondu" (v0.50)](https://github.com/Sayca-jferone/PACT_GlobalEngineering)**
+### **[→ Procédure globale "PACT Any-domain solutions building" (v0.50)](https://github.com/Sayca-jferone/PACT_GlobalEngineering)**
 
 La plupart des projets échouent avant le code : sujet ambigüe, spécification floue,
 interfaces non contractualisées, dette de conception invisible, création directe in-code.
