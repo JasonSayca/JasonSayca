@@ -1,20 +1,18 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-### Software Engineering extra 42 Nice `RNCP 6 & 7`
-
 Travaux de recherche/innovation en génie logiciel (bas/haut-niveau) et en solutions transversales.
 
-> Défilement : 📐Workflow / 📝Compétences / ⚙️Projets extra-42
+> 1) Workflow / 2) Compétences / 3) Projets extra-42
 
 ---
 
 # 📐 Workflow
 
-### 0.💭 <-> I.📋 <-> II.🗺️ <-> III.🏗️
+### 💭 <-> I.📋 <-> II.🗺️ <-> III.🏗️
 
-### **[→ Procédure spéciale "PACT Software Engineering" (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
+### **[→ Procédure PACT adaptée au Software Engineering (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-### **[→ Procédure globale "PACT Any-domain solutions building" (v0.50)](https://github.com/Sayca-jferone/PACT)**
+### **[→ Procédure PACT globale (tout-domaine confondu) (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
 La plupart des projets échouent avant le code : sujet ambigüe, spécification floue,
 interfaces non contractualisées, dette de conception invisible, invention hors-contrat dans le code.
