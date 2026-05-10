@@ -4,11 +4,9 @@
 
 Recherche/innovation en logiciels (bas/haut-niveau) et en solutions transversales.
 
-> 1) Workflow / 2) Compétences / 3) Projets extra-42
-
 ---
 
-# 📐 Workflow
+# 📐 1) Workflow
 
 ### 💭 <-> I.📋 <-> II.🗺️ <-> III.🏗️
 
@@ -33,7 +31,7 @@ une rigueur formelle **sans over-engineering**.
 
 ---
 
-# 📝 Compétences 
+# 📝 2) Compétences 
 
 ## 1. Posture
 
@@ -81,7 +79,7 @@ où les explorations suivantes appliquent les principes de `PACT` :
 ---
 
 
-## ⚙️ Projets extra-42
+## ⚙️ 3) Projets extra-42
 
 | Dépôt | Description |
 |---|---|
