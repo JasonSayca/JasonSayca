@@ -8,7 +8,7 @@ Recherche/innovation en logiciels (bas/haut-niveau) et en solutions transversale
 
 # 📐 1. Workflow
 
-### 💭 <-> I.📋 <-> II.🗺️ <-> III.🏗️
+### 💡​ <-> I.📋 <-> II.🗺️ <-> III.🏗️
 
 ### **[→ Procédure PACT adaptée au Software Engineering (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
