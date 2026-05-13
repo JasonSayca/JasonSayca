@@ -14,7 +14,7 @@ Recherche autonome en systèmes transversaux, agentique et en logiciels (bas/hau
 
 ### **[→ Procédure PACT globale (tout-domaine confondu) (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
-Passer de l'ingénierie textuelle longue, coûteuse et laborieuse à la production de systèmes/logiciels par la théorie des graphes.
+Passer de l'ingénierie textuelle longue, coûteuse et laborieuse à la production de systèmes/logiciels par l'intermédiaire de la Théorie des Graphes.
 
 La plupart des projets échouent avant le code : sujet ambigüe, spécification floue,
 interfaces non contractualisées, dette de conception invisible, invention hors-contrat dans le code.
