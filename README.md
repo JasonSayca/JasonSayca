@@ -2,34 +2,29 @@
 
 ### Visual Systems Engineering
 
-Recherche autonome en systèmes transversaux, agentique et en logiciels (bas/haut-niveau).
+Recherche autonome sur les systèmes transversaux, en agentique et sur les systèmes bas/haut-niveau.
 
 ---
 
 # 📐 1. Mon workflow
 
-### 💡​ <-> I)📋 <-> II)🗺️ <-> III)🏗️
+### I.📋 <-> II.🗺️ <-> III.🏗️
 
-### **[→ Procédure PACT adaptée au Software Engineering (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
+### **[→ Procédure PACT adaptée (Software Engineering) (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
-### **[→ Procédure PACT globale (tout-domaine confondu) (v0.50)](https://github.com/Sayca-jferone/PACT)**
+### **[→ Procédure PACT globale (Domain Agnostic) (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
-Passer de l'ingénierie textuelle longue, coûteuse et laborieuse à la production de systèmes/logiciels par l'intermédiaire de la Théorie des Graphes.
+C'est passer de la production 100% textuelle (longue, coûteuse, laborieuse pour certains profils) à la production de systèmes par l'intermédiaire de la Théorie des Graphes, **sans over-engineering**, **moins de frictions pour le développeur**.
 
-La plupart des projets échouent avant le code : sujet ambigüe, spécification floue,
-interfaces non contractualisées, dette de conception invisible, invention hors-contrat dans le code.
+La plupart des projets échouent bien avant le code : sujet ambigüe, spécification floue,
+interfaces non contractualisées, dette de conception invisible, ajout de features inopinées non tracées.
 
-Les protocoles existants (B Method, VDM) ont résolu ce problème théoriquement,
-mais ils restent partiels et ont échoué à l'adoption individuelle.
+Des protocoles existent déjà (B Method, VDM), mais ne résolvent ce problème que théoriquement, partiels et fragmentés, et ont échoué à l'adoption individuelle.
 
-**Je partage une procédure légère en 4 phases (Sujet → CheckList → Architecture → Implémentation)**
-qui force la contractualisation de chaque composant clé (fichier, système, agent) pour son debug logique, avant d'écrire son code.
-Chaque composant est défini par ses Behaviours, Invariants, Outputs, Processus, Garanties et Erreurs (BIOPGE).
-
-Fondé et utilisé sur l'intégralité de mon cursus 42 (Cercle 2+). Optimise la vitesse d'apprentissage **ET** la qualité de production.
+Pensé et utilisé à partir du cercle 2 de mon cursus 42next, dans le but d'optimiser la **qualité** et la **vitesse** de mon apprentissage, ainsi que la **tracabilité/rétro-conception de tous mes logiciels**.
 
 **Cible :** Étudiants 42, ingénieurs système, développeurs toutes stacks cherchant
-une rigueur formelle **sans over-engineering**.
+une rigueur formelle.
 
 ---
 
