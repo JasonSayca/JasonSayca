@@ -1,25 +1,20 @@
 <h1 align="center" class="heading-element" dir="auto">🧪 Sayca Labs</h1>
 
-Recherche autonome complète sur les systèmes transversaux, bas/haut niveau et en agentique.
-
----
-
 # 📐 1. Mon workflow
 
 ### I.📋 <-> II.🗺️ <-> III.🏗️
+
+C'est une discipline que j'ai construite par induction à partir de ma propre expérience des sujets 42, on enseignée à l'école,
 
 ### **[→ Procédure PACT Software Engineering (v0.52)](https://github.com/Sayca-jferone/PACT_SoftwareEngineering)**
 
 ### **[→ Procédure PACT Any Domain (v0.50)](https://github.com/Sayca-jferone/PACT)**
 
-C'est passer de la production 100% textuelle (longue, coûteuse, laborieuse pour certains profils) à la production de systèmes par l'intermédiaire de la Théorie des Graphes, **sans over-engineering**, **moins de frictions pour le développeur**.
-
-La plupart des projets échouent bien avant le code : sujet ambigüe, spécification floue,
-interfaces non contractualisées, dette de conception invisible, ajout de features inopinées non tracées.
+Production de systèmes en "Design By Contract" par l'intermédiaire de la Théorie des Graphes, **sans over-engineering**, **sans création de features déconnectées in-code**, **héritable par tous les agents humains et artificiels**.
 
 Des protocoles existent déjà (B Method, VDM), mais ne résolvent ce problème que théoriquement, partiels et fragmentés, et ont échoué à l'adoption individuelle.
 
-Pensé et utilisé à partir du cercle 2 de mon cursus 42next, dans le but d'optimiser la **qualité** et la **vitesse** de mon apprentissage, ainsi que la **tracabilité/rétro-conception de tous mes logiciels**.
+Changement de paradigme dans le but d'optimiser la **qualité** et la **vitesse** de mon apprentissage, ainsi que la **tracabilité/rétro-conception de tous mes logiciels**.
 
 **Cible :** Étudiants 42, ingénieurs système, développeurs toutes stacks cherchant
 une rigueur formelle.
