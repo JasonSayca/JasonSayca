@@ -27,13 +27,13 @@ une rigueur formelle.
 
 1. **Modélisation de systèmes** en contrats, flux et invariants, avant le script.
 
-2. **Typage épistémique** pour qualifier et intégrer isolement ce qui n'est pas maîtrisé dans un système/logiciel.
+2. **Typage épistémique** pour qualifier et intégrer des éléments émergents/expérimentaux.
 
-3. **Architecture auto-documentée** (PACT, BIOPGE) lisible par l'humain et l'artificiel.
+3. **Architecture auto-documentée** (PACT, BIOPGE).
 
-4. **Intégration de domaines hétérogènes** (pensée et système transversaux permettant d'intégrer des domaines hors-spécialisation).
+4. **Intégration de domaines hétérogènes** (systèmes transversaux pour intégration de domaines hors-spécialisation).
 
-5. **Conception d'outils cognitifs** visant l'augmentation des compétences humaines et les capacités de travail par l'agentique IA.
+5. **Conception d'outils cognitifs** visant l'augmentation des compétences & capacités de travail humaines, de pair avec l'agentique IA.
 
 
 ## 2. Tech Stack
