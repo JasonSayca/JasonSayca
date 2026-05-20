@@ -23,7 +23,7 @@ une rigueur formelle.
 
 # 📝 2. Mes compétences
 
-## 1. Posture
+## 1. Soft Stack
 
 1. **Modélisation de systèmes** en contrats, flux et invariants, avant le script.
 
@@ -36,7 +36,7 @@ une rigueur formelle.
 5. **Conception d'outils cognitifs** visant l'augmentation des compétences & capacités de travail humaines, de pair avec l'agentique IA.
 
 
-## 2. Tech Stack
+## 2. Hard Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
